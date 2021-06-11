@@ -36,3 +36,9 @@ Open webpage [http://localhost:8080/](http://localhost:8080/) and wou will see "
 Now try to build something more incredible, like things we listed [here in the project](https://github.com/BlackCrystal/python-wiki/projects/1).
 
 GL & HF.
+
+## Useful links
+
+- [Virtualenv](https://docs.python-guide.org/dev/virtualenvs/#lower-level-virtualenv)
+- [TurboGears documentation](https://turbogears.readthedocs.io/en/latest/index.html)
+- [Git guide](https://rogerdudler.github.io/git-guide/)
