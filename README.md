@@ -25,7 +25,7 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-Start webserver
+Start server
 
 ```shell
 python server.py
