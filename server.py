@@ -3,7 +3,7 @@ from tg import expose, TGController
 class RootController(TGController):
     @expose()
     def index(self):
-        return 'Hello World'
+        return 'Show what you can. Learn what you don\'t'
 
 from tg import MinimalApplicationConfigurator
 

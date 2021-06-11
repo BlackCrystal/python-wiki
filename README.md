@@ -16,7 +16,6 @@ Optional, create virtual python environment and activate it
 ```shell
 pip install --user virtualenv
 virtualenv venv
-source venv/bin/activate
 ```
 
 Install requirements
@@ -31,7 +30,7 @@ Start server
 python server.py
 ```
 
-Open webpage [http://localhost:8080/](http://localhost:8080/) and You will see "Hello world" message.
+Open webpage [http://localhost:8080/](http://localhost:8080/) and You will see `Show what you can. Learn what you don't` message.
 
 Now try to build something more incredible, like things we listed [here in the project](https://github.com/BlackCrystal/python-wiki/projects/1).
 
