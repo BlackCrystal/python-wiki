@@ -31,7 +31,7 @@ Start webserver
 python server.py
 ```
 
-Open webpage [http://localhost:8080/](http://localhost:8080/) and wou will see "Hello world" message.
+Open webpage [http://localhost:8080/](http://localhost:8080/) and You will see "Hello world" message.
 
 Now try to build something more incredible, like things we listed [here in the project](https://github.com/BlackCrystal/python-wiki/projects/1).
 
