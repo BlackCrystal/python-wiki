@@ -3,8 +3,12 @@ from tg import expose, TGController
 class RootController(TGController):
     @expose()
     def index(self):
-        return 'Show what you can. Learn what you don\'t'
+        return 'Show what you can. Learn what you don\'t <a href="huj">Another page</a>'
 
+    @expose()
+    def huj(self):
+        return 'Show you huj. Learn what you don\'t'
+        
 from tg import MinimalApplicationConfigurator
 
 config = MinimalApplicationConfigurator()
