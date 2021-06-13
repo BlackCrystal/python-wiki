@@ -16,6 +16,7 @@ setuptools.setup(
     url="https://github.com/BlackCrystal/python-wiki",
     project_urls={
         "Bug Tracker": "https://github.com/BlackCrystal/python-wiki/issues",
+        "Project": "https://github.com/BlackCrystal/python-wiki/projects/1",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
