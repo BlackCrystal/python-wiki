@@ -60,6 +60,8 @@ Or in production mode
 gearbox serve
 ```
 
+Open webpage [http://localhost:8080/](http://localhost:8080/) and You will see TurboGears2 welcome page with documentation.
+
 
 ## Useful links
 
