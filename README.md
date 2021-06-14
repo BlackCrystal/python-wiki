@@ -24,7 +24,7 @@ Install requirements
 pip install -r requirements.txt
 ```
 
-Start server
+Start "HelloWorld" server
 
 ```shell
 python server.py
@@ -35,6 +35,31 @@ Open webpage [http://localhost:8080/](http://localhost:8080/) and You will see `
 Now try to build something more incredible, like things we listed [here in the project](https://github.com/BlackCrystal/python-wiki/projects/1).
 
 GL & HF.
+
+## Something more incredible
+
+Wiki folder contains application with TurboGears full framweork.
+
+To set it up, execute these commands
+
+```shell
+cd wiki
+python setup.py develop
+gearbox setup-app
+```
+
+Then start server in development mode
+
+```shell
+gearbox serve --reload --debug
+```
+
+Or in production mode
+
+```shell
+gearbox serve
+```
+
 
 ## Useful links
 
